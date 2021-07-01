@@ -22,4 +22,3 @@ table {margin:0 auto; border:1px solid #ddd;}
 #mlist-table {border-collapse:collapse;}
 #mlist-table thead tr {background-color:#ABC6DD;}
 #mlist-table td, #mlist-table th {padding:5px;}
-#mlist-table tbody tr:nth-child(even) {background-color:#ddd;}
