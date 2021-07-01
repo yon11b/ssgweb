@@ -3,4 +3,4 @@
 DocumentRoot /home/hayeon/ssghy
 
 처음 시작
-web.php
+localhost/web.php
